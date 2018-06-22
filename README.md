@@ -36,5 +36,3 @@ Go through tutorial
 
 ## Get Feed Back from Andrew T.
 
-## To Do:
-
